@@ -1,3 +1,6 @@
 1. Why have you decided to learn Git and GitHub?
-
+to provide better learning experience for my students
 2. How do you plan to use GitHub in your classroom?
+to provide better learning experience for my students
+3. What are ways that GitHub might help you and your students manage code?
+using pull requests and commits
